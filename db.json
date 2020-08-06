@@ -1,0 +1,130 @@
+{
+  "posts": [
+    {
+ "id": 1,
+  "status": 100,
+  "message": "Picking orders were successfully created",
+  "pickingOrderEntities": [
+    {
+        "pickingOrderId": "OP1",
+        "poCreationDate": "2020-07-15T10:29:00.000-04:00",
+        "poCreationUser": "lkawai",
+        "poCreationSessionId": 9088,
+        "poPickerUser": "_ggabriel",
+        "poRepositionUser": "_rnieto",
+        "poPickingState": 0,
+        "poCorridorId": "CAVA-LICORES",
+        "storeId": 86,
+        "storeCode": 123,
+        "brokenOrderId": "OQ4725678",
+        "orderState": 1
+      },
+      {
+        "pickingOrderId": "OP1",
+        "poCreationDate": "2020-07-15T10:29:00.000-04:00",
+        "poCreationUser": "lkawai",
+        "poCreationSessionId": 9088,
+        "poPickerUser": "_ggabriel",
+        "poRepositionUser": "_rnieto",
+        "poPickingState": 0,
+        "poCorridorId": "CAVA-LICORES",
+        "storeId": 86,
+        "storeCode": 123,
+        "brokenOrderId": "OQ4746779",
+        "orderState": 1
+      },
+      {
+        "pickingOrderId": "OP1",
+        "poCreationDate": "2020-07-15T10:29:00.000-04:00",
+        "poCreationUser": "lkawai",
+        "poCreationSessionId": 9088,
+        "poPickerUser": "_ggabriel",
+        "poRepositionUser": "_rnieto",
+        "poPickingState": 0,
+        "poCorridorId": "CAVA-LICORES",
+        "storeId": 86,
+        "storeCode": 123,
+        "brokenOrderId": "OQ4746820",
+        "orderState": 1
+      },
+      {
+        "pickingOrderId": "OP1",
+        "poCreationDate": "2020-07-15T10:29:00.000-04:00",
+        "poCreationUser": "lkawai",
+        "poCreationSessionId": 9088,
+        "poPickerUser": "_ggabriel",
+        "poRepositionUser": "_rnieto",
+        "poPickingState": 0,
+        "poCorridorId": "CAVA-LICORES",
+        "storeId": 86,
+        "storeCode": 123,
+        "brokenOrderId": "OQ4746829",
+        "orderState": 1
+      },
+      {
+        "pickingOrderId": "OP1",
+        "poCreationDate": "2020-07-15T10:29:00.000-04:00",
+        "poCreationUser": "lkawai",
+        "poCreationSessionId": 9088,
+        "poPickerUser": "_ggabriel",
+        "poRepositionUser": "_rnieto",
+        "poPickingState": 0,
+        "poCorridorId": "CAVA-LICORES",
+        "storeId": 86,
+        "storeCode": 123,
+        "brokenOrderId": "OQ4746939",
+        "orderState": 1
+      },
+      {
+        "pickingOrderId": "OP1",
+        "poCreationDate": "2020-07-15T10:29:00.000-04:00",
+        "poCreationUser": "lkawai",
+        "poCreationSessionId": 9088,
+        "poPickerUser": "_ggabriel",
+        "poRepositionUser": "_rnieto",
+        "poPickingState": 0,
+        "poCorridorId": "CAVA-LICORES",
+        "storeId": 86,
+        "storeCode": 123,
+        "brokenOrderId": "OQ4746945",
+        "orderState": 1
+      },
+      {
+        "pickingOrderId": "OP2",
+        "poCreationDate": "2020-07-15T10:33:00.000-04:00",
+        "poCreationUser": "lkawai",
+        "poCreationSessionId": 9088,
+        "poPickerUser": "_ggabriel",
+        "poRepositionUser": "_apareja",
+        "poPickingState": 0,
+        "poCorridorId": "13-A",
+        "storeId": 86,
+        "storeCode": 123,
+        "brokenOrderId": "OQ4746085",
+        "orderState": 1
+      },
+      {
+        "pickingOrderId": "OP2",
+        "poCreationDate": "2020-07-15T10:33:00.000-04:00",
+        "poCreationUser": "lkawai",
+        "poCreationSessionId": 9088,
+        "poPickerUser": "_ggabriel",
+        "poRepositionUser": "_apareja",
+        "poPickingState": 0,
+        "poCorridorId": "13-A",
+        "storeId": 86,
+        "storeCode": 123,
+        "brokenOrderId": "OQ4746156",
+        "orderState": 1
+      }
+  ]}
+  ],
+  "comments": [
+    { "id": 1, "body": "Post broker order", "postId": 1 },
+    { "id": 2, "body": "Get broker orders ", "postId": 2 },
+    { "id": 3, "body": "Get broker orders non-stock", "postId": 3 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
